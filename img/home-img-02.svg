@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425 425">
+  <defs>
+    <style>
+      .b {
+        fill: #0d2a3f;
+      }
+
+      .b, .c, .d, .e, .f {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: #428ae2;
+      }
+
+      .d {
+        fill: #153e68;
+      }
+
+      .e {
+        fill: #52a4ef;
+      }
+
+      .f {
+        fill: #91bce2;
+      }
+    </style>
+  </defs>
+  <rect class="d" x="25" width="125" height="25"/>
+  <polyline class="f" points="150 175 150 125 100 125 100 100"/>
+  <polygon class="f" points="125 150 125 250 100 250 100 175 25 175 25 150 125 150"/>
+  <polygon class="f" points="75 200 75 250 50 250 50 225 25 225 25 200 75 200"/>
+  <polygon class="d" points="100 175 100 275 75 275 75 200 0 200 0 175 100 175"/>
+  <polygon class="d" points="50 225 50 275 25 275 25 250 0 250 0 225 50 225"/>
+  <polyline class="e" points="125 250 125 200 150 200 150 225"/>
+  <polygon class="e" points="150 125 150 175 125 175 125 150 100 150 100 125 150 125"/>
+  <rect class="b" x="25" y="75" width="25" height="25"/>
+  <rect class="d" x="75" y="50" width="25" height="75"/>
+  <polyline class="d" points="150 300 150 325 125 325 125 300 100 300 100 275 125 275 125 250 150 250 150 275"/>
+  <polygon class="c" points="150 50 150 100 125 100 125 75 100 75 100 50 75 50 75 25 125 25 125 50 150 50"/>
+  <rect class="b" x="75" y="300" width="25" height="25"/>
+</svg>

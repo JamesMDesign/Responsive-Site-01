@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525 450">
+  <defs>
+    <style>
+      .b {
+        fill: #0d2a3f;
+      }
+
+      .b, .c, .d, .e, .f {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: #428ae2;
+      }
+
+      .d {
+        fill: #153e68;
+      }
+
+      .e {
+        fill: #52a4ef;
+      }
+
+      .f {
+        fill: #91bce2;
+      }
+    </style>
+  </defs>
+  <rect class="d" x="25" y="25" width="125" height="25"/>
+  <polygon class="f" points="175 125 175 200 150 200 150 150 100 150 100 125 175 125"/>
+  <polygon class="f" points="125 175 125 275 100 275 100 200 25 200 25 175 125 175"/>
+  <polygon class="f" points="75 225 75 275 50 275 50 250 25 250 25 225 75 225"/>
+  <polygon class="d" points="100 200 100 300 75 300 75 225 0 225 0 200 100 200"/>
+  <polygon class="d" points="50 250 50 300 25 300 25 275 0 275 0 250 50 250"/>
+  <polygon class="e" points="175 250 175 275 125 275 125 225 150 225 150 250 175 250"/>
+  <polygon class="e" points="150 150 150 200 125 200 125 175 100 175 100 150 150 150"/>
+  <rect class="b" x="25" y="100" width="25" height="25"/>
+  <rect class="d" x="75" y="75" width="25" height="75"/>
+  <polyline class="d" points="150 325 150 350 125 350 125 325 100 325 100 300 125 300 125 275 150 275 150 300"/>
+  <polygon class="d" points="225 225 225 250 200 250 200 275 175 275 175 250 150 250 150 225 175 225 175 200 200 200 200 225 225 225"/>
+  <rect class="c" x="325" y="175" width="25" height="25"/>
+  <rect class="b" x="475" y="375" width="25" height="25"/>
+  <rect class="b" x="500" y="225" width="25" height="25"/>
+  <rect class="b" x="250" y="75" width="25" height="25"/>
+  <rect class="f" x="275" y="75" width="25" height="75"/>
+  <polyline class="e" points="300 150 325 150 325 125 350 125 350 175 325 175 325 200 350 200 350 225"/>
+  <rect class="b" x="400" y="25" width="25" height="25"/>
+  <polygon class="e" points="325 0 325 25 300 25 300 50 275 50 275 0 325 0"/>
+  <polygon class="c" points="150 75 150 125 125 125 125 100 100 100 100 75 75 75 75 50 125 50 125 75 150 75"/>
+  <rect class="d" x="175" y="50" width="25" height="75"/>
+  <rect class="b" x="475" y="50" width="25" height="25"/>
+  <polygon class="e" points="200 25 200 50 175 50 175 75 150 75 150 25 200 25"/>
+  <rect class="c" x="200" y="75" width="25" height="25"/>
+  <polygon class="f" points="425 150 425 200 400 200 400 175 375 175 375 75 400 75 400 150 425 150"/>
+  <polygon class="e" points="400 50 400 75 375 75 375 100 350 100 350 50 400 50"/>
+  <polyline class="e" points="475 125 450 125 450 150 425 150"/>
+  <polygon class="d" points="300 175 300 200 250 200 250 100 275 100 275 175 300 175"/>
+  <rect class="c" x="450" y="125" width="25" height="25"/>
+  <rect class="d" x="350" y="125" width="25" height="150"/>
+  <rect class="d" x="300" y="25" width="25" height="125"/>
+  <rect class="c" x="225" y="150" width="25" height="125"/>
+  <polyline class="d" points="500 175 425 175 425 150 475 150"/>
+  <polygon class="e" points="225 125 225 150 200 150 200 175 175 175 175 125 225 125"/>
+  <polyline class="d" points="475 275 475 225 425 225 425 200 500 200"/>
+  <polygon class="e" points="525 150 525 200 475 200 475 175 500 175 500 150 525 150"/>
+  <rect class="b" x="400" y="225" width="25" height="25"/>
+  <polygon class="e" points="475 225 475 275 450 275 450 250 425 250 425 225 475 225"/>
+  <polygon class="e" points="400 250 400 300 350 300 350 275 375 275 375 250 400 250"/>
+  <rect class="b" x="75" y="325" width="25" height="25"/>
+  <polyline class="d" points="500 325 475 325 475 350 450 350 450 325 425 325 425 300 450 300 450 275 475 275 475 300"/>
+  <polygon class="d" points="425 375 425 400 400 400 400 425 375 425 375 375 425 375"/>
+  <polygon class="e" points="500 325 500 375 450 375 450 350 475 350 475 325 500 325"/>
+  <polygon class="f" points="450 350 450 375 375 375 375 450 350 450 350 350 450 350"/>
+  <polygon class="f" points="325 275 325 300 275 300 275 350 250 350 250 275 325 275"/>
+  <rect class="d" x="350" y="325" width="75" height="25"/>
+  <polygon class="f" points="350 325 350 350 325 350 325 375 300 375 300 325 350 325"/>
+  <polygon class="e" points="450 400 450 425 425 425 425 450 400 450 400 400 450 400"/>
+  <rect class="d" x="325" y="350" width="25" height="75"/>
+  <polygon class="d" points="350 300 350 325 300 325 300 375 275 375 275 300 350 300"/>
+  <polyline class="d" points="300 275 250 275 250 250"/>
+  <rect class="d" x="225" y="275" width="25" height="50"/>
+  <polyline class="e" points="250 325 250 375 225 375 225 350"/>
+  <polygon class="e" points="325 375 325 425 300 425 300 400 275 400 275 375 325 375"/>
+</svg>
